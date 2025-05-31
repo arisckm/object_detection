@@ -6,3 +6,5 @@ numpy
 gdown
 torchvision
 ultralytics
+seaborn
+
